@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "advguisample.pbt";
+ 1 "test1.pbt";
 @end;
-DefaultTarget "advguisample.pbt";
-DefaultRemoteTarget "advguisample.pbt";
+DefaultTarget "test1.pbt";
+DefaultRemoteTarget "test1.pbt";
